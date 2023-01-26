@@ -4,7 +4,6 @@
 body{
     background:#392a35;
     background-repeat: no-repeat;
-    height: 100vh;
 }
 section{
     display: flex;
